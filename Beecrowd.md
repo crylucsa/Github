@@ -2,6 +2,10 @@
 
 Este repositório contém minhas resoluções das atividades de **SQL** do Beecrowd.  
 O objetivo é praticar consultas, junções, funções de agregação e manipulação de dados, consolidando o aprendizado de SQL aplicado a problemas reais.
+<center> </center>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4713777b-7468-4eb0-8bf7-a39297b51e60" />
+
+
 
 ---
 
