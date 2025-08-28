@@ -28,7 +28,7 @@
 ![Atividade 6218](./ae7cf677-a857-49d8-b035-364d7903a1c7.png)
 
 ## Atividade 2622
-![Atividade 2622](./28f820ae-f7b7-4a00-b1a4-8a7decf6f236.png)
+![Atividade 2622](<img width="535" height="293" alt="Image" src="https://github.com/user-attachments/assets/a7ec1f0a-5a8e-47b5-b741-5ba79323f2ec" />)
 
 ## Fontes de pesquisa
 - [W3Schools - SQL LEFT JOIN](https://www.w3schools.com/sql/sql_join_left.asp)
